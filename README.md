@@ -12,7 +12,8 @@ O App foi construído em React Native na versão 0.71.3. Cada tela é, na verdad
 
 ### Video Exemplo
 
-https://user-images.githubusercontent.com/95244995/228656501-32c8a3f4-d581-4fdb-85b9-544fc5a899c9.mp4
+https://github.com/Rafael-Moresco/lambe-lambe/assets/95244995/ea6581a2-b6f5-4195-9884-f3f0c7885bee
+
 
 ## Bibliotecas:
 * [bottom-tabs]: Responsável por criar o menu inferior de navegação entre telas.
